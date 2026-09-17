@@ -1,0 +1,63 @@
+{
+  "env_info": {
+    "env_id": "DarkstoreContinuousBaseEnv",
+    "env_kwargs": {
+      "robot_uids": "ds_fetch_basket",
+      "config_dir_path": "generated_envs/ds_small_scene/",
+      "num_envs": 1,
+      "viewer_camera_configs": {
+        "shader_pack": "default"
+      },
+      "human_render_camera_configs": {
+        "shader_pack": "default",
+        "render_camera": {
+          "uid": "render_camera",
+          "pose": [
+            9.259979248046875,
+            6.344012260437012,
+            2.0,
+            0.38926103711128235,
+            0.22097033262252808,
+            0.09675708413124084,
+            -0.8889803290367126
+          ],
+          "width": 512,
+          "height": 512,
+          "fov": 1,
+          "near": 0.01,
+          "far": 100
+        }
+      },
+      "sensor_configs": {
+        "shader_pack": "minimal"
+      },
+      "render_mode": "rgb_array",
+      "control_mode": null,
+      "enable_shadow": true,
+      "sim_config": {
+        "spacing": 20
+      },
+      "obs_mode": "rgbd",
+      "sim_backend": "auto",
+      "parallel_in_single_scene": false
+    },
+    "max_episode_steps": 200000
+  },
+  "commit_info": null,
+  "episodes": [
+    {
+      "episode_id": 0,
+      "episode_seed": 42,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 900,
+      "reset_kwargs": {
+        "options": {
+          "reconfigure": true
+        },
+        "seed": [
+          42
+        ]
+      }
+    }
+  ]
+}

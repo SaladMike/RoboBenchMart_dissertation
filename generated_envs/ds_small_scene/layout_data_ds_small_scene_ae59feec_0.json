@@ -1,0 +1,245 @@
+{
+    "layout_data": {
+        "service": [
+            {
+                "name": "blocked_area",
+                "x": 12.0,
+                "y": 8.0,
+                "l": 2,
+                "w": 2,
+                "orientation": "horizontal",
+                "occupancy_width": 0.0,
+                "asset_name": null
+            }
+        ],
+        "scene_fixtures": [
+            {
+                "name": "scene_fixture:fixtures.freezer_nestle",
+                "x": 6.991061272598131,
+                "y": 6.801901358350512,
+                "l": 1.3549993041054051,
+                "w": 0.7533113365828628,
+                "orientation": "horizontal",
+                "occupancy_width": 0.2,
+                "asset_name": "fixtures.freezer_nestle"
+            }
+        ],
+        "inactive_wall_shelvings": [
+            {
+                "name": "inactive_wall_shelving:fixtures.freezer_large_filled",
+                "x": 7.333333333333333,
+                "y": 9.14203,
+                "l": 3.11447,
+                "w": 0.8959400000000001,
+                "orientation": "horizontal",
+                "occupancy_width": 0.4,
+                "asset_name": "fixtures.freezer_large_filled"
+            }
+        ],
+        "active_wall_shelvings": [],
+        "inactive_shelvings": [
+            {
+                "name": "inactive_shelving:fixtures.shelf",
+                "x": 1.5000000000000004,
+                "y": 1.3000000000000003,
+                "l": 1.5470003485679626,
+                "w": 0.5472003817558289,
+                "orientation": "horizontal",
+                "occupancy_width": 1.0,
+                "asset_name": "fixtures.shelf"
+            },
+            {
+                "name": "inactive_shelving:fixtures.shelf",
+                "x": 3.0570003485679633,
+                "y": 1.3000000000000003,
+                "l": 1.5470003485679626,
+                "w": 0.5472003817558289,
+                "orientation": "horizontal",
+                "occupancy_width": 1.0,
+                "asset_name": "fixtures.shelf"
+            },
+            {
+                "name": "inactive_shelving:fixtures.shelf",
+                "x": 4.614000697135926,
+                "y": 1.3000000000000003,
+                "l": 1.5470003485679626,
+                "w": 0.5472003817558289,
+                "orientation": "horizontal",
+                "occupancy_width": 1.0,
+                "asset_name": "fixtures.shelf"
+            },
+            {
+                "name": "inactive_shelving:fixtures.shelf",
+                "x": 6.171001045703888,
+                "y": 1.3000000000000003,
+                "l": 1.5470003485679626,
+                "w": 0.5472003817558289,
+                "orientation": "horizontal",
+                "occupancy_width": 1.0,
+                "asset_name": "fixtures.shelf"
+            },
+            {
+                "name": "inactive_shelving:fixtures.shelf",
+                "x": 7.728001394271851,
+                "y": 1.3000000000000003,
+                "l": 1.5470003485679626,
+                "w": 0.5472003817558289,
+                "orientation": "horizontal",
+                "occupancy_width": 1.0,
+                "asset_name": "fixtures.shelf"
+            },
+            {
+                "name": "inactive_shelving:fixtures.shelf",
+                "x": 9.285001742839814,
+                "y": 1.3000000000000003,
+                "l": 1.5470003485679626,
+                "w": 0.5472003817558289,
+                "orientation": "horizontal",
+                "occupancy_width": 1.0,
+                "asset_name": "fixtures.shelf"
+            },
+            {
+                "name": "inactive_shelving:fixtures.shelf",
+                "x": 10.842002091407776,
+                "y": 1.3000000000000003,
+                "l": 1.5470003485679626,
+                "w": 0.5472003817558289,
+                "orientation": "horizontal",
+                "occupancy_width": 1.0,
+                "asset_name": "fixtures.shelf"
+            },
+            {
+                "name": "inactive_shelving:fixtures.shelf_metal",
+                "x": 4.127999801635742,
+                "y": 3.847200381755829,
+                "l": 1.553999900817871,
+                "w": 0.5540000200271606,
+                "orientation": "horizontal",
+                "occupancy_width": 1.0,
+                "asset_name": "fixtures.shelf_metal"
+            },
+            {
+                "name": "inactive_shelving:fixtures.shelf_metal",
+                "x": 5.691999702453613,
+                "y": 3.847200381755829,
+                "l": 1.553999900817871,
+                "w": 0.5540000200271606,
+                "orientation": "horizontal",
+                "occupancy_width": 1.0,
+                "asset_name": "fixtures.shelf_metal"
+            },
+            {
+                "name": "inactive_shelving:fixtures.shelf_metal",
+                "x": 7.2559996032714835,
+                "y": 3.847200381755829,
+                "l": 1.553999900817871,
+                "w": 0.5540000200271606,
+                "orientation": "horizontal",
+                "occupancy_width": 1.0,
+                "asset_name": "fixtures.shelf_metal"
+            },
+            {
+                "name": "inactive_shelving:fixtures.small_shelf_two_sided",
+                "x": 4.252896118097651,
+                "y": 6.40120040178299,
+                "l": 1.0742987060325504,
+                "w": 0.827289290838405,
+                "orientation": "horizontal",
+                "occupancy_width": 1.0,
+                "asset_name": "fixtures.small_shelf_two_sided"
+            },
+            {
+                "name": "inactive_shelving:fixtures.small_shelf_two_sided",
+                "x": 5.337194824130201,
+                "y": 6.40120040178299,
+                "l": 1.0742987060325504,
+                "w": 0.827289290838405,
+                "orientation": "horizontal",
+                "occupancy_width": 1.0,
+                "asset_name": "fixtures.small_shelf_two_sided"
+            },
+            {
+                "name": "inactive_shelving:fixtures.small_shelf_two_sided",
+                "x": 9.674389648260401,
+                "y": 6.40120040178299,
+                "l": 1.0742987060325504,
+                "w": 0.827289290838405,
+                "orientation": "horizontal",
+                "occupancy_width": 1.0,
+                "asset_name": "fixtures.small_shelf_two_sided"
+            },
+            {
+                "name": "inactive_shelving:fixtures.shelf",
+                "x": 1.3000000000000003,
+                "y": 3.400000000000002,
+                "l": 1.5470003485679626,
+                "w": 0.5472003817558289,
+                "orientation": "vertical",
+                "occupancy_width": 1.0,
+                "asset_name": "fixtures.shelf"
+            },
+            {
+                "name": "inactive_shelving:fixtures.shelf",
+                "x": 1.3000000000000003,
+                "y": 4.957000348567965,
+                "l": 1.5470003485679626,
+                "w": 0.5472003817558289,
+                "orientation": "vertical",
+                "occupancy_width": 1.0,
+                "asset_name": "fixtures.shelf"
+            },
+            {
+                "name": "inactive_shelving:fixtures.shelf",
+                "x": 1.3000000000000003,
+                "y": 6.514000697135927,
+                "l": 1.5470003485679626,
+                "w": 0.5472003817558289,
+                "orientation": "vertical",
+                "occupancy_width": 1.0,
+                "asset_name": "fixtures.shelf"
+            },
+            {
+                "name": "inactive_shelving:fixtures.shelf",
+                "x": 1.3000000000000003,
+                "y": 8.07100104570389,
+                "l": 1.5470003485679626,
+                "w": 0.5472003817558289,
+                "orientation": "vertical",
+                "occupancy_width": 1.0,
+                "asset_name": "fixtures.shelf"
+            }
+        ],
+        "active_shelvings": [
+            {
+                "name": "ds_small_scene_ae59feec_0_mixed_shelf",
+                "x": 0,
+                "y": 0,
+                "l": 1.553999900817871,
+                "w": 0.5540000200271606,
+                "orientation": "horizontal",
+                "occupancy_width": 0.2,
+                "asset_name": "fixtures.shelf_metal"
+            }
+        ]
+    },
+    "size_x": 12.0,
+    "size_y": 10.0,
+    "fake_arrangements_mapping": {
+        "fixtures.shelf": [
+            "fixtures.shelf_fake_1",
+            "fixtures.shelf_fake_2",
+            "fixtures.shelf_fake_3"
+        ],
+        "fixtures.shelf_metal": [
+            "fixtures.shelf_metal_fake_1",
+            "fixtures.shelf_metal_fake_2"
+        ],
+        "fixtures.small_shelf_two_sided": [
+            "fixtures.small_shelf_two_sided_fake_1",
+            "fixtures.small_shelf_two_sided_fake_1"
+        ]
+    },
+    "hash": "ae59feec",
+    "scene_id": 0,
+    "scene_name": "ds_small_scene_ae59feec_0"
+}

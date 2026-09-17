@@ -1,0 +1,22 @@
+/root/miniconda3/envs/dsynth/lib/python3.10/site-packages/sapien/_vulkan_tricks.py:78: UserWarning: Failed to find Vulkan ICD file. This is probably due to an incorrect or partial installation of the NVIDIA driver. SAPIEN will attempt to provide an ICD file anyway but it may not work.
+  warn(
+/root/autodl-tmp/RoboBenchMart/./dsynth/envs/darkstore_cont_base.py:193: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at /pytorch/torch/csrc/utils/tensor_new.cpp:254.)
+  src = torch.tensor(src).float()
+built
+Total 84 products in 1 scene(s)
+[33;1m2026-09-16 22:57:47,646 - mani_skill  - WARNING - mani_skill is not installed with git.[0m
+Video path: generated_envs/ds_small_scene/videos_seed=[42]_shader=default_sensor_shader=minimal
+Trajectoty name: 20260916_225747
+built
+Total 84 products in 1 scene(s)
+  0%|          | 0/10 [00:00<?, ?it/s]{'elapsed_steps': tensor([1], dtype=torch.int32)}
+{'elapsed_steps': tensor([2], dtype=torch.int32)}
+{'elapsed_steps': tensor([3], dtype=torch.int32)}
+{'elapsed_steps': tensor([4], dtype=torch.int32)}
+ 40%|████      | 4/10 [00:00<00:00, 34.98it/s]{'elapsed_steps': tensor([5], dtype=torch.int32)}
+{'elapsed_steps': tensor([6], dtype=torch.int32)}
+{'elapsed_steps': tensor([7], dtype=torch.int32)}
+{'elapsed_steps': tensor([8], dtype=torch.int32)}
+{'elapsed_steps': tensor([9], dtype=torch.int32)}
+ 90%|█████████ | 9/10 [00:00<00:00, 43.11it/s]{'elapsed_steps': tensor([10], dtype=torch.int32)}
+100%|██████████| 10/10 [00:00<00:00, 19.78it/s]

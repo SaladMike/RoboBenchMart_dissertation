@@ -1,0 +1,85 @@
+,actor_name,scene_idx,product_name,asset_name,board_idxs,col_idxs,row_idxs
+0,[ENV#0]_food.BEER.DuffBeerCan:0:1:0:0,0,Duff Beer Can,food.BEER.DuffBeerCan,1,0,0
+1,[ENV#0]_food.BEER.DuffBeerCan:0:1:0:1,0,Duff Beer Can,food.BEER.DuffBeerCan,1,0,1
+2,[ENV#0]_food.BEER.DuffBeerCan:0:1:0:2,0,Duff Beer Can,food.BEER.DuffBeerCan,1,0,2
+3,[ENV#0]_food.BEER.DuffBeerCan:0:1:1:0,0,Duff Beer Can,food.BEER.DuffBeerCan,1,1,0
+4,[ENV#0]_food.BEER.DuffBeerCan:0:1:1:1,0,Duff Beer Can,food.BEER.DuffBeerCan,1,1,1
+5,[ENV#0]_food.BEER.DuffBeerCan:0:1:1:2,0,Duff Beer Can,food.BEER.DuffBeerCan,1,1,2
+6,[ENV#0]_food.BEER.DuffBeerCan:0:1:2:0,0,Duff Beer Can,food.BEER.DuffBeerCan,1,2,0
+7,[ENV#0]_food.BEER.DuffBeerCan:0:1:2:1,0,Duff Beer Can,food.BEER.DuffBeerCan,1,2,1
+8,[ENV#0]_food.BEER.DuffBeerCan:0:1:2:2,0,Duff Beer Can,food.BEER.DuffBeerCan,1,2,2
+9,[ENV#0]_food.BEER.DuffBeerCan:0:1:3:0,0,Duff Beer Can,food.BEER.DuffBeerCan,1,3,0
+10,[ENV#0]_food.BEER.DuffBeerCan:0:1:3:1,0,Duff Beer Can,food.BEER.DuffBeerCan,1,3,1
+11,[ENV#0]_food.BEER.DuffBeerCan:0:1:3:2,0,Duff Beer Can,food.BEER.DuffBeerCan,1,3,2
+12,[ENV#0]_food.BEER.DuffBeerCan:0:1:4:0,0,Duff Beer Can,food.BEER.DuffBeerCan,1,4,0
+13,[ENV#0]_food.BEER.DuffBeerCan:0:1:4:1,0,Duff Beer Can,food.BEER.DuffBeerCan,1,4,1
+14,[ENV#0]_food.BEER.DuffBeerCan:0:1:4:2,0,Duff Beer Can,food.BEER.DuffBeerCan,1,4,2
+15,[ENV#0]_food.BEER.DuffBeerCan:0:1:5:0,0,Duff Beer Can,food.BEER.DuffBeerCan,1,5,0
+16,[ENV#0]_food.BEER.DuffBeerCan:0:1:5:1,0,Duff Beer Can,food.BEER.DuffBeerCan,1,5,1
+17,[ENV#0]_food.BEER.DuffBeerCan:0:1:5:2,0,Duff Beer Can,food.BEER.DuffBeerCan,1,5,2
+18,[ENV#0]_food.BEER.DuffBeerCan:0:1:6:0,0,Duff Beer Can,food.BEER.DuffBeerCan,1,6,0
+19,[ENV#0]_food.BEER.DuffBeerCan:0:1:6:1,0,Duff Beer Can,food.BEER.DuffBeerCan,1,6,1
+20,[ENV#0]_food.BEER.DuffBeerCan:0:1:6:2,0,Duff Beer Can,food.BEER.DuffBeerCan,1,6,2
+21,[ENV#0]_food.BEER.DuffBeerCan:0:1:7:0,0,Duff Beer Can,food.BEER.DuffBeerCan,1,7,0
+22,[ENV#0]_food.BEER.DuffBeerCan:0:1:7:1,0,Duff Beer Can,food.BEER.DuffBeerCan,1,7,1
+23,[ENV#0]_food.BEER.DuffBeerCan:0:1:7:2,0,Duff Beer Can,food.BEER.DuffBeerCan,1,7,2
+24,[ENV#0]_food.BEER.DuffBeerCan:0:1:8:0,0,Duff Beer Can,food.BEER.DuffBeerCan,1,8,0
+25,[ENV#0]_food.BEER.DuffBeerCan:0:1:8:1,0,Duff Beer Can,food.BEER.DuffBeerCan,1,8,1
+26,[ENV#0]_food.BEER.DuffBeerCan:0:1:8:2,0,Duff Beer Can,food.BEER.DuffBeerCan,1,8,2
+27,[ENV#0]_food.BEER.DuffBeerCan:0:1:9:0,0,Duff Beer Can,food.BEER.DuffBeerCan,1,9,0
+28,[ENV#0]_food.BEER.DuffBeerCan:0:1:9:1,0,Duff Beer Can,food.BEER.DuffBeerCan,1,9,1
+29,[ENV#0]_food.BEER.DuffBeerCan:0:1:9:2,0,Duff Beer Can,food.BEER.DuffBeerCan,1,9,2
+30,[ENV#0]_food.BEER.DuffBeerCan:0:1:10:0,0,Duff Beer Can,food.BEER.DuffBeerCan,1,10,0
+31,[ENV#0]_food.BEER.DuffBeerCan:0:1:10:1,0,Duff Beer Can,food.BEER.DuffBeerCan,1,10,1
+32,[ENV#0]_food.BEER.DuffBeerCan:0:1:10:2,0,Duff Beer Can,food.BEER.DuffBeerCan,1,10,2
+33,[ENV#0]_food.BEER.DuffBeerCan:0:1:11:0,0,Duff Beer Can,food.BEER.DuffBeerCan,1,11,0
+34,[ENV#0]_food.BEER.DuffBeerCan:0:1:11:1,0,Duff Beer Can,food.BEER.DuffBeerCan,1,11,1
+35,[ENV#0]_food.BEER.DuffBeerCan:0:1:11:2,0,Duff Beer Can,food.BEER.DuffBeerCan,1,11,2
+36,[ENV#0]_food.dairy_products.milkCarton:0:2:0:0,0,auchan milk,food.dairy_products.milkCarton,2,0,0
+37,[ENV#0]_food.dairy_products.milkCarton:0:2:0:1,0,auchan milk,food.dairy_products.milkCarton,2,0,1
+38,[ENV#0]_food.dairy_products.milkCarton:0:2:0:2,0,auchan milk,food.dairy_products.milkCarton,2,0,2
+39,[ENV#0]_food.dairy_products.milkCarton:0:2:1:0,0,auchan milk,food.dairy_products.milkCarton,2,1,0
+40,[ENV#0]_food.dairy_products.milkCarton:0:2:1:1,0,auchan milk,food.dairy_products.milkCarton,2,1,1
+41,[ENV#0]_food.dairy_products.milkCarton:0:2:1:2,0,auchan milk,food.dairy_products.milkCarton,2,1,2
+42,[ENV#0]_food.dairy_products.milkCarton:0:2:2:0,0,auchan milk,food.dairy_products.milkCarton,2,2,0
+43,[ENV#0]_food.dairy_products.milkCarton:0:2:2:1,0,auchan milk,food.dairy_products.milkCarton,2,2,1
+44,[ENV#0]_food.dairy_products.milkCarton:0:2:2:2,0,auchan milk,food.dairy_products.milkCarton,2,2,2
+45,[ENV#0]_food.dairy_products.milkCarton:0:2:3:0,0,auchan milk,food.dairy_products.milkCarton,2,3,0
+46,[ENV#0]_food.dairy_products.milkCarton:0:2:3:1,0,auchan milk,food.dairy_products.milkCarton,2,3,1
+47,[ENV#0]_food.dairy_products.milkCarton:0:2:3:2,0,auchan milk,food.dairy_products.milkCarton,2,3,2
+48,[ENV#0]_food.dairy_products.milkCarton:0:2:4:0,0,auchan milk,food.dairy_products.milkCarton,2,4,0
+49,[ENV#0]_food.dairy_products.milkCarton:0:2:4:1,0,auchan milk,food.dairy_products.milkCarton,2,4,1
+50,[ENV#0]_food.dairy_products.milkCarton:0:2:4:2,0,auchan milk,food.dairy_products.milkCarton,2,4,2
+51,[ENV#0]_food.dairy_products.milkCarton:0:2:5:0,0,auchan milk,food.dairy_products.milkCarton,2,5,0
+52,[ENV#0]_food.dairy_products.milkCarton:0:2:5:1,0,auchan milk,food.dairy_products.milkCarton,2,5,1
+53,[ENV#0]_food.dairy_products.milkCarton:0:2:5:2,0,auchan milk,food.dairy_products.milkCarton,2,5,2
+54,[ENV#0]_food.dairy_products.milkCarton:0:2:6:0,0,auchan milk,food.dairy_products.milkCarton,2,6,0
+55,[ENV#0]_food.dairy_products.milkCarton:0:2:6:1,0,auchan milk,food.dairy_products.milkCarton,2,6,1
+56,[ENV#0]_food.dairy_products.milkCarton:0:2:6:2,0,auchan milk,food.dairy_products.milkCarton,2,6,2
+57,[ENV#0]_food.dairy_products.milkCarton:0:2:7:0,0,auchan milk,food.dairy_products.milkCarton,2,7,0
+58,[ENV#0]_food.dairy_products.milkCarton:0:2:7:1,0,auchan milk,food.dairy_products.milkCarton,2,7,1
+59,[ENV#0]_food.dairy_products.milkCarton:0:2:7:2,0,auchan milk,food.dairy_products.milkCarton,2,7,2
+60,[ENV#0]_food.drinks.coffeePackaging:0:4:0:0,0,myboo coffee package,food.drinks.coffeePackaging,4,0,0
+61,[ENV#0]_food.drinks.coffeePackaging:0:4:0:1,0,myboo coffee package,food.drinks.coffeePackaging,4,0,1
+62,[ENV#0]_food.drinks.coffeePackaging:0:4:0:2,0,myboo coffee package,food.drinks.coffeePackaging,4,0,2
+63,[ENV#0]_food.drinks.coffeePackaging:0:4:1:0,0,myboo coffee package,food.drinks.coffeePackaging,4,1,0
+64,[ENV#0]_food.drinks.coffeePackaging:0:4:1:1,0,myboo coffee package,food.drinks.coffeePackaging,4,1,1
+65,[ENV#0]_food.drinks.coffeePackaging:0:4:1:2,0,myboo coffee package,food.drinks.coffeePackaging,4,1,2
+66,[ENV#0]_food.drinks.coffeePackaging:0:4:2:0,0,myboo coffee package,food.drinks.coffeePackaging,4,2,0
+67,[ENV#0]_food.drinks.coffeePackaging:0:4:2:1,0,myboo coffee package,food.drinks.coffeePackaging,4,2,1
+68,[ENV#0]_food.drinks.coffeePackaging:0:4:2:2,0,myboo coffee package,food.drinks.coffeePackaging,4,2,2
+69,[ENV#0]_food.drinks.coffeePackaging:0:4:3:0,0,myboo coffee package,food.drinks.coffeePackaging,4,3,0
+70,[ENV#0]_food.drinks.coffeePackaging:0:4:3:1,0,myboo coffee package,food.drinks.coffeePackaging,4,3,1
+71,[ENV#0]_food.drinks.coffeePackaging:0:4:3:2,0,myboo coffee package,food.drinks.coffeePackaging,4,3,2
+72,[ENV#0]_food.drinks.coffeePackaging:0:4:4:0,0,myboo coffee package,food.drinks.coffeePackaging,4,4,0
+73,[ENV#0]_food.drinks.coffeePackaging:0:4:4:1,0,myboo coffee package,food.drinks.coffeePackaging,4,4,1
+74,[ENV#0]_food.drinks.coffeePackaging:0:4:4:2,0,myboo coffee package,food.drinks.coffeePackaging,4,4,2
+75,[ENV#0]_food.drinks.coffeePackaging:0:4:5:0,0,myboo coffee package,food.drinks.coffeePackaging,4,5,0
+76,[ENV#0]_food.drinks.coffeePackaging:0:4:5:1,0,myboo coffee package,food.drinks.coffeePackaging,4,5,1
+77,[ENV#0]_food.drinks.coffeePackaging:0:4:5:2,0,myboo coffee package,food.drinks.coffeePackaging,4,5,2
+78,[ENV#0]_food.drinks.coffeePackaging:0:4:6:0,0,myboo coffee package,food.drinks.coffeePackaging,4,6,0
+79,[ENV#0]_food.drinks.coffeePackaging:0:4:6:1,0,myboo coffee package,food.drinks.coffeePackaging,4,6,1
+80,[ENV#0]_food.drinks.coffeePackaging:0:4:6:2,0,myboo coffee package,food.drinks.coffeePackaging,4,6,2
+81,[ENV#0]_food.drinks.coffeePackaging:0:4:7:0,0,myboo coffee package,food.drinks.coffeePackaging,4,7,0
+82,[ENV#0]_food.drinks.coffeePackaging:0:4:7:1,0,myboo coffee package,food.drinks.coffeePackaging,4,7,1
+83,[ENV#0]_food.drinks.coffeePackaging:0:4:7:2,0,myboo coffee package,food.drinks.coffeePackaging,4,7,2

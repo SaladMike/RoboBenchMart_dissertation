@@ -1,0 +1,13 @@
+/root/miniconda3/envs/dsynth/lib/python3.10/site-packages/sapien/_vulkan_tricks.py:78: UserWarning: Failed to find Vulkan ICD file. This is probably due to an incorrect or partial installation of the NVIDIA driver. SAPIEN will attempt to provide an ICD file anyway but it may not work.
+  warn(
+[2026-09-16 22:55:47,483][__main__][INFO] - Write results to: generated_envs/ds_small_scene_nohup
+  0%|          | 0/1 [00:00<?, ?it/s][2026-09-16 22:55:50,086][scene_synthesizer][INFO] - Loading asset assets/shelf_woodenglb.glb
+[2026-09-16 22:55:50,108][scene_synthesizer][INFO] - Loading asset assets/shelf_metal.glb
+[2026-09-16 22:55:50,200][scene_synthesizer][INFO] - Loading asset assets/store_mini_shelf_two_sided.glb
+[2026-09-16 22:55:51,296][scene_synthesizer][INFO] - Loading asset assets/shelf_metal.glb
+[2026-09-16 22:55:52,345][scene_synthesizer][INFO] - Loading asset assets/shelf_metal.glb
+[2026-09-16 22:55:52,509][scene_synthesizer][INFO] - Loading asset assets/preprocessed/duff_can_rotated.glb
+[2026-09-16 22:55:53,528][scene_synthesizer][INFO] - Loading asset assets/preprocessed/milkCarton.glb
+[2026-09-16 22:55:54,001][scene_synthesizer][INFO] - Loading asset assets/preprocessed/coffeePackaging.glb
+100%|██████████| 1/1 [00:07<00:00,  7.26s/it]100%|██████████| 1/1 [00:07<00:00,  7.26s/it]
+[2026-09-16 22:55:54,944][__main__][INFO] - Done

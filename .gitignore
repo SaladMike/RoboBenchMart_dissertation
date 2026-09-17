@@ -1,16 +1,11 @@
-.vscode
-__pycache__
-assets*/
-!conf/assets
-!dsynth/assets
-generated_envs
-.ipynb_checkpoints
-.hydra
-outputs
-*.json
-*.mp4
-*.h5
-*.jpg
-*.csv
-demo_envs
-demo_envs_mp
+# Exclude the downloaded asset library, but retain code-owned assets/configs.
+/assets/
+# Logs, generated scenes, videos, and trajectories are intentionally included.
+.env
+.env.*
+!.env.example
+.netrc
+*.pem
+*.key
+id_rsa
+id_ed25519

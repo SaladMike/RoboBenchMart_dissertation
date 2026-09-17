@@ -1,0 +1,20 @@
+[2026-09-16 21:33:15,160][__main__][INFO] - Write results to: generated_envs/ds_small_scene
+[2026-09-16 21:33:17,388][scene_synthesizer][INFO] - Loading asset assets/shelf_woodenglb.glb
+[2026-09-16 21:33:17,408][scene_synthesizer][INFO] - Loading asset assets/shelf_metal.glb
+[2026-09-16 21:33:17,497][scene_synthesizer][INFO] - Loading asset assets/store_mini_shelf_two_sided.glb
+[2026-09-16 21:33:18,566][scene_synthesizer][INFO] - Loading asset assets/shelf_metal.glb
+[2026-09-16 21:33:19,575][scene_synthesizer][INFO] - Loading asset assets/shelf_metal.glb
+[2026-09-16 21:33:19,731][scene_synthesizer][INFO] - Loading asset assets/preprocessed/duff_can_rotated.glb
+[2026-09-16 21:33:20,733][scene_synthesizer][INFO] - Loading asset assets/preprocessed/milkCarton.glb
+[2026-09-16 21:33:21,192][scene_synthesizer][INFO] - Loading asset assets/preprocessed/coffeePackaging.glb
+[2026-09-16 21:33:22,059][__main__][INFO] - Done
+[2026-09-16 22:55:47,483][__main__][INFO] - Write results to: generated_envs/ds_small_scene_nohup
+[2026-09-16 22:55:50,086][scene_synthesizer][INFO] - Loading asset assets/shelf_woodenglb.glb
+[2026-09-16 22:55:50,108][scene_synthesizer][INFO] - Loading asset assets/shelf_metal.glb
+[2026-09-16 22:55:50,200][scene_synthesizer][INFO] - Loading asset assets/store_mini_shelf_two_sided.glb
+[2026-09-16 22:55:51,296][scene_synthesizer][INFO] - Loading asset assets/shelf_metal.glb
+[2026-09-16 22:55:52,345][scene_synthesizer][INFO] - Loading asset assets/shelf_metal.glb
+[2026-09-16 22:55:52,509][scene_synthesizer][INFO] - Loading asset assets/preprocessed/duff_can_rotated.glb
+[2026-09-16 22:55:53,528][scene_synthesizer][INFO] - Loading asset assets/preprocessed/milkCarton.glb
+[2026-09-16 22:55:54,001][scene_synthesizer][INFO] - Loading asset assets/preprocessed/coffeePackaging.glb
+[2026-09-16 22:55:54,944][__main__][INFO] - Done

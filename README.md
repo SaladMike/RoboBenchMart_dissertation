@@ -1,5 +1,43 @@
 # RoboBenchMart
 
+This personal workspace is based on [emb-ai/RoboBenchMart](https://github.com/emb-ai/RoboBenchMart). The upstream MIT license and attribution are retained.
+
+## Local Additions
+
+- [Chinese installation and download guide](docs/INSTALL_zh.md), including background execution with `nohup`.
+- Full-store overview videos: `python scripts/show_env_in_sim.py generated_envs/ds_small_scene/ -s 42 --overview --episode_length 900 --video` records a 30-second elevated orbit at 1280x720. The camera moves around a static scene with the ceiling, walls, and lamp meshes hidden for visibility.
+- Camera framing tests: `python -m unittest discover -s tests -v`.
+
+## Published Workspace
+
+This snapshot includes source code, configurations, installation notes, generated
+scenes, all recorded videos and HDF5 trajectories, and run logs. The downloaded
+top-level `assets/` library is excluded; download it separately as described below.
+Code-owned robot files in `dsynth/assets/` and configurations in `conf/assets/`
+are retained. Videos and HDF5 trajectories are stored with Git LFS.
+
+```bash
+git lfs install
+git clone https://github.com/SaladMike/RoboBenchMart_dissertation.git
+cd RoboBenchMart_dissertation
+git lfs pull
+sha256sum --check SNAPSHOT_SHA256SUMS.txt
+```
+
+Use Git LFS to retrieve the actual videos and trajectories; a source ZIP may
+contain only LFS pointers. The checksum manifest covers the published files,
+excluding itself, the downloaded `assets/` directory, and Git's internal database.
+
+- Generated scenes and recordings: `generated_envs/`
+- Full-store panorama videos: `generated_envs/ds_small_scene/overview_seed=42/`
+- Run logs: `logs/` and `generate_scene_continuous.log`
+
+The Conda environment and RoboCasa cache outside the project directory are not
+part of this snapshot. No model weights or 50 GB demonstration dataset were
+present in this workspace at publication. The installation guide uses the original
+local path `/root/autodl-tmp/RoboBenchMart`; substitute your checkout path when
+working in this repository.
+
 [![Page](https://img.shields.io/badge/Project-Page-blue)](https://emb-ai.github.io/RoboBenchMart/)
 [![arXiv](https://img.shields.io/badge/arXiv-2511.10276-b31b1b.svg)](https://arxiv.org/abs/2511.10276)
 
