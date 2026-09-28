@@ -7,6 +7,7 @@ This personal workspace is based on [emb-ai/RoboBenchMart](https://github.com/em
 - [Chinese installation and download guide](docs/INSTALL_zh.md), including background execution with `nohup`.
 - Full-store overview videos: `python scripts/show_env_in_sim.py generated_envs/ds_small_scene/ -s 42 --overview --episode_length 900 --video` records a 30-second elevated orbit at 1280x720. The camera moves around a static scene with the ceiling, walls, and lamp meshes hidden for visibility.
 - Camera framing tests: `python -m unittest discover -s tests -v`.
+- [Octo evaluation results, 2026-09-28](results/octo-2026-09-28/README.md): 42 atomic-task configurations, 30 episodes each, with the success-rate table and raw CSV.
 
 ## Published Workspace
 
