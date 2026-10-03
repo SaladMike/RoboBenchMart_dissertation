@@ -1,0 +1,43 @@
+# Consolidated pi05 success rates for pi05_parallel_20261002_105333; each source log has 30 episodes.
+config=01 task=board_duff_train Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config01.log
+config=02 task=board_nestle_train Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config02.log
+config=03 task=board_vanish_train Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config03.log
+config=04 task=open_fridge_train Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config04.log
+config=05 task=close_fridge_train Results: [28, 44, 64, 84, 92, 104, 108, 112] 8 0.26666666666666666 source=logs/pi05_parallel_20261002_105333_config05.log
+config=06 task=open_showcase_train Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config06.log
+config=07 task=close_showcase_train Results: [12, 16, 36, 60, 76, 84, 132] 7 0.23333333333333334 source=logs/pi05_parallel_20261002_105333_config07.log
+config=08 task=floor_beans_train Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config08.log
+config=09 task=floor_slam_train Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config09.log
+config=10 task=basket_fanta_train Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config10.log
+config=11 task=basket_nivea_train Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config11.log
+config=12 task=basket_stars_train Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config12.log
+config=13 task=board_duff_robo Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config13.log
+config=14 task=board_nestle_robo Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config14.log
+config=15 task=board_vanish_robo Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config15.log
+config=16 task=open_fridge_robo Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config16.log
+config=17 task=close_fridge_robo Results: [28, 32, 52, 64, 84, 92, 96] 7 0.23333333333333334 source=logs/pi05_parallel_20261002_105333_config17.log
+config=18 task=open_showcase_robo Results: [32] 1 0.03333333333333333 source=logs/pi05_parallel_20261002_105333_config18.log
+config=19 task=close_showcase_robo Results: [0, 76, 128] 3 0.1 source=logs/pi05_parallel_20261002_105333_config19.log
+config=20 task=floor_beans_robo Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config20.log
+config=21 task=floor_slam_robo Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config21.log
+config=22 task=basket_fanta_robo Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config22.log
+config=23 task=basket_nivea_robo Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config23.log
+config=24 task=basket_stars_robo Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config24.log
+config=25 task=board_duff_uns Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config25.log
+config=26 task=board_nestle_uns Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config26.log
+config=27 task=board_vanish_uns Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config27.log
+config=28 task=open_fridge_uns Results: [42029] 1 0.03333333333333333 source=logs/pi05_parallel_20261002_105333_config28.log
+config=29 task=close_fridge_uns Results: [42002, 42013, 42020, 42021, 42024, 42027] 6 0.2 source=logs/pi05_parallel_20261002_105333_config29.log
+config=30 task=open_showcase_uns Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config30.log
+config=31 task=close_showcase_uns Results: [42005, 42010, 42013, 42018, 42019, 42027] 6 0.2 source=logs/pi05_parallel_20261002_105333_config31.log
+config=32 task=floor_beans_uns Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config32.log
+config=33 task=floor_slam_uns Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config33.log
+config=34 task=basket_fanta_uns Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config34.log
+config=35 task=basket_nivea_uns Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config35.log
+config=36 task=basket_stars_uns Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config36.log
+config=37 task=board_nivea_ood Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config37.log
+config=38 task=board_fanta_ood Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config38.log
+config=39 task=floor_fanta_ood Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config39.log
+config=40 task=floor_duff_ood Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config40.log
+config=41 task=basket_nestle_ood Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config41.log
+config=42 task=basket_slam_ood Results: [] 0 0.0 source=logs/pi05_parallel_20261002_105333_config42.log

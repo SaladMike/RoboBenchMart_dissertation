@@ -1,0 +1,23 @@
+OK _CHECKPOINT_METADATA
+OK assets/rbm_dataset/norm_stats.json
+OK params/_METADATA
+OK params/_sharding
+OK params/array_metadatas/process_0
+OK params/d/c544a3996541aca533f7a35eca09203b
+OK params/manifest.ocdbt
+OK params/ocdbt.process_0/d/05e6b42ebacdc28d90eaa01847ef600c
+OK params/ocdbt.process_0/d/20767f4e54e79e88166b9005b71d65f5
+OK params/ocdbt.process_0/d/23c0795e4e1a56167f87928d61946e80
+OK params/ocdbt.process_0/d/4e171b200f9596d052ff729b93ab3c21
+OK params/ocdbt.process_0/d/511e2282a8c91fcbb901d0fd44bc69e8
+OK params/ocdbt.process_0/d/685533311ac3d0af0d23941a6dcd700a
+OK params/ocdbt.process_0/d/6e8e46756a0d3e1fbc1b317e39e41379
+OK params/ocdbt.process_0/d/735d2061ba3874f7c7d348782c6b16b2
+OK params/ocdbt.process_0/d/7c17ca38d285254f43d5a7af7f0b3257
+OK params/ocdbt.process_0/d/8109c2541c4f8a6f22852322078ecfce
+OK params/ocdbt.process_0/d/9243d92da5c24962032160af74508a91
+OK params/ocdbt.process_0/d/bcccabf610bf3415990b85ed0248d51f
+OK params/ocdbt.process_0/d/c504aa458d162b8c704eecd78301602a
+OK params/ocdbt.process_0/d/fb8b7ab1d8eccc380d497279787f43d6
+OK params/ocdbt.process_0/manifest.ocdbt
+pi05 verification passed: 22 files, 12,430,591,218 bytes

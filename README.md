@@ -8,6 +8,8 @@ This personal workspace is based on [emb-ai/RoboBenchMart](https://github.com/em
 - Full-store overview videos: `python scripts/show_env_in_sim.py generated_envs/ds_small_scene/ -s 42 --overview --episode_length 900 --video` records a 30-second elevated orbit at 1280x720. The camera moves around a static scene with the ceiling, walls, and lamp meshes hidden for visibility.
 - Camera framing tests: `python -m unittest discover -s tests -v`.
 - [Octo evaluation results, 2026-09-28](results/octo-2026-09-28/README.md): 42 atomic-task configurations, 30 episodes each, with the success-rate table and raw CSV.
+- [π₀.₅ evaluation results, 2026-10-02](results/pi05-2026-10-02/README.md): 42 configurations, complete logs, 1,260 episode videos and file hashes.
+- [Two-model experiment and old-thesis comparison](https://github.com/SaladMike/robobenchmart-dissertation/blob/main/docs/EXPERIMENT_REPLACEMENT_zh.md) in the dissertation repository.
 
 ## Published Workspace
 
@@ -26,7 +28,7 @@ sha256sum --check SNAPSHOT_SHA256SUMS.txt
 ```
 
 Use Git LFS to retrieve the actual videos and trajectories; a source ZIP may
-contain only LFS pointers. The checksum manifest covers the published files,
+contain only LFS pointers. The original snapshot checksum manifest covers its published files,
 excluding itself, the downloaded `assets/` directory, and Git's internal database.
 
 - Generated scenes and recordings: `generated_envs/`
@@ -35,7 +37,7 @@ excluding itself, the downloaded `assets/` directory, and Git's internal databas
 
 The Conda environment and RoboCasa cache outside the project directory are not
 part of this snapshot. No model weights or 50 GB demonstration dataset were
-present in this workspace at publication. The installation guide uses the original
+present in the original snapshot. Later evaluation downloads and results are documented above; large model weights and the complete training trajectories are not committed here. The installation guide uses the original
 local path `/root/autodl-tmp/RoboBenchMart`; substitute your checkout path when
 working in this repository.
 

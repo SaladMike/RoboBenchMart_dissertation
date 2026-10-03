@@ -1,0 +1,45 @@
+{
+  "env_info": {
+    "env_id": "PickToBasketContFantaEnv",
+    "env_kwargs": {
+      "robot_uids": "ds_fetch_basket",
+      "config_dir_path": "demo_envs/test_unseen_items_pick_to_basket",
+      "num_envs": 1,
+      "control_mode": "pd_joint_pos",
+      "viewer_camera_configs": {
+        "shader_pack": "default"
+      },
+      "human_render_camera_configs": {
+        "shader_pack": "default",
+        "render_camera": {
+          "uid": "render_camera",
+          "pose": [
+            16.15999984741211,
+            9.751778602600098,
+            2.0,
+            0.8886699676513672,
+            -0.09693306684494019,
+            0.2208932787179947,
+            0.3899689316749573
+          ],
+          "width": 512,
+          "height": 512,
+          "fov": 1,
+          "near": 0.01,
+          "far": 100
+        }
+      },
+      "sensor_configs": null,
+      "sim_backend": "auto",
+      "render_mode": "rgb_array",
+      "enable_shadow": true,
+      "obs_mode": "rgb",
+      "parallel_in_single_scene": false
+    },
+    "max_episode_steps": 200000
+  },
+  "commit_info": null,
+  "episodes": [],
+  "source_type": "Policy",
+  "source_desc": "Policy evaluation"
+}

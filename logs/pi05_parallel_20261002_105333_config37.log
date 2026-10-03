@@ -1,0 +1,68 @@
+/root/autodl-tmp/RoboBenchMart_dissertation/./dsynth/envs/darkstore_cont_base.py:193: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at /pytorch/torch/csrc/utils/tensor_new.cpp:254.)
+  src = torch.tensor(src).float()
+built
+Total 104 products in 1 scene(s)
+[33;1m2026-10-02 10:51:08,356 - mani_skill  - WARNING - mani_skill is not installed with git.[0m
+Octo evaluation on MoveFromBoardToBoardNiveaContEnv
+  0%|          | 0/30 [00:00<?, ?it/s]built
+Total 123 products in 1 scene(s)
+  3%|▎         | 1/30 [01:39<47:52, 99.06s/it]  3%|▎         | 1/30 [01:39<47:52, 99.06s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 121 products in 1 scene(s)
+  7%|▋         | 2/30 [03:15<45:24, 97.31s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]  7%|▋         | 2/30 [03:15<45:24, 97.31s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 105 products in 1 scene(s)
+ 10%|█         | 3/30 [04:51<43:31, 96.72s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 10%|█         | 3/30 [04:51<43:31, 96.72s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 123 products in 1 scene(s)
+ 13%|█▎        | 4/30 [06:26<41:39, 96.13s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 13%|█▎        | 4/30 [06:26<41:39, 96.13s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 121 products in 1 scene(s)
+ 17%|█▋        | 5/30 [08:02<40:02, 96.08s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 17%|█▋        | 5/30 [08:02<40:02, 96.08s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 123 products in 1 scene(s)
+ 20%|██        | 6/30 [09:38<38:25, 96.04s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 20%|██        | 6/30 [09:38<38:25, 96.04s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 104 products in 1 scene(s)
+ 23%|██▎       | 7/30 [11:10<36:21, 94.87s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 23%|██▎       | 7/30 [11:10<36:21, 94.87s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 104 products in 1 scene(s)
+ 27%|██▋       | 8/30 [12:49<35:12, 96.04s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 27%|██▋       | 8/30 [12:49<35:12, 96.04s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 121 products in 1 scene(s)
+ 30%|███       | 9/30 [14:26<33:43, 96.37s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 30%|███       | 9/30 [14:26<33:43, 96.37s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 123 products in 1 scene(s)
+ 33%|███▎      | 10/30 [16:01<31:57, 95.87s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 33%|███▎      | 10/30 [16:01<31:57, 95.87s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 107 products in 1 scene(s)
+ 37%|███▋      | 11/30 [17:38<30:30, 96.34s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 37%|███▋      | 11/30 [17:38<30:30, 96.34s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 105 products in 1 scene(s)
+ 40%|████      | 12/30 [19:14<28:51, 96.18s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 40%|████      | 12/30 [19:14<28:51, 96.18s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 105 products in 1 scene(s)
+ 43%|████▎     | 13/30 [20:49<27:08, 95.82s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 43%|████▎     | 13/30 [20:49<27:08, 95.82s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 104 products in 1 scene(s)
+ 47%|████▋     | 14/30 [22:27<25:43, 96.47s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 47%|████▋     | 14/30 [22:27<25:43, 96.47s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 105 products in 1 scene(s)
+ 50%|█████     | 15/30 [24:02<24:00, 96.03s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 50%|█████     | 15/30 [24:02<24:00, 96.03s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 105 products in 1 scene(s)
+ 53%|█████▎    | 16/30 [25:40<22:32, 96.58s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 53%|█████▎    | 16/30 [25:40<22:32, 96.58s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 105 products in 1 scene(s)
+ 57%|█████▋    | 17/30 [27:15<20:50, 96.20s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 57%|█████▋    | 17/30 [27:15<20:50, 96.20s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 105 products in 1 scene(s)
+ 60%|██████    | 18/30 [28:53<19:21, 96.81s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 60%|██████    | 18/30 [28:53<19:21, 96.81s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 104 products in 1 scene(s)
+ 63%|██████▎   | 19/30 [30:32<17:52, 97.46s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 63%|██████▎   | 19/30 [30:32<17:52, 97.46s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 123 products in 1 scene(s)
+ 67%|██████▋   | 20/30 [32:13<16:24, 98.48s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 67%|██████▋   | 20/30 [32:13<16:24, 98.48s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 104 products in 1 scene(s)
+ 70%|███████   | 21/30 [33:47<14:35, 97.23s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 70%|███████   | 21/30 [33:47<14:35, 97.23s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 104 products in 1 scene(s)
+ 73%|███████▎  | 22/30 [35:25<12:57, 97.21s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 73%|███████▎  | 22/30 [35:25<12:57, 97.21s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 104 products in 1 scene(s)
+ 77%|███████▋  | 23/30 [36:59<11:13, 96.28s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 77%|███████▋  | 23/30 [36:59<11:13, 96.28s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 104 products in 1 scene(s)
+ 80%|████████  | 24/30 [38:34<09:36, 96.09s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 80%|████████  | 24/30 [38:34<09:36, 96.09s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 119 products in 1 scene(s)
+ 83%|████████▎ | 25/30 [40:12<08:02, 96.41s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 83%|████████▎ | 25/30 [40:12<08:02, 96.41s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 123 products in 1 scene(s)
+ 87%|████████▋ | 26/30 [41:52<06:30, 97.66s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 87%|████████▋ | 26/30 [41:52<06:30, 97.66s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 123 products in 1 scene(s)
+ 90%|█████████ | 27/30 [43:29<04:52, 97.55s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 90%|█████████ | 27/30 [43:29<04:52, 97.55s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 123 products in 1 scene(s)
+ 93%|█████████▎| 28/30 [45:07<03:15, 97.64s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 93%|█████████▎| 28/30 [45:07<03:15, 97.64s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 105 products in 1 scene(s)
+ 97%|█████████▋| 29/30 [46:42<01:36, 96.90s/it, success_rate=0, avg_episode_length=750, max_episode_length=750] 97%|█████████▋| 29/30 [46:42<01:36, 96.90s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]built
+Total 119 products in 1 scene(s)
+100%|██████████| 30/30 [48:21<00:00, 97.37s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]100%|██████████| 30/30 [48:21<00:00, 97.37s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]Results: [] 0 0.0
+100%|██████████| 30/30 [48:21<00:00, 96.73s/it, success_rate=0, avg_episode_length=750, max_episode_length=750]

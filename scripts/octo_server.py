@@ -89,10 +89,8 @@ class Policy:
 
 def main(args):
     octo_model = OctoModel.load_pretrained(args.model_path)
-    policy = Policy(octo_model, horizon=50, history=1, exec_horizon=50)
-
     server = WebsocketPolicyServer(
-        policy=policy,
+        policy_factory=lambda: Policy(octo_model, horizon=50, history=1, exec_horizon=50),
         host=args.host,
         port=args.port,
     )

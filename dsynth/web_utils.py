@@ -71,12 +71,16 @@ class WebsocketPolicyServer:
 
     def __init__(
         self,
-        policy,
+        policy=None,
         host: str = "0.0.0.0",
         port: int | None = None,
         metadata: dict | None = None,
+        policy_factory=None,
     ) -> None:
+        if (policy is None) == (policy_factory is None):
+            raise ValueError("Provide exactly one of policy or policy_factory")
         self._policy = policy
+        self._policy_factory = policy_factory
         self._host = host
         self._port = port
         self._metadata = metadata or {}
@@ -98,6 +102,7 @@ class WebsocketPolicyServer:
 
     async def _handler(self, websocket: _server.ServerConnection):
         logger.info(f"Connection from {websocket.remote_address} opened")
+        policy = self._policy_factory() if self._policy_factory is not None else self._policy
         packer = Packer()
 
         await websocket.send(packer.pack(self._metadata))
@@ -109,7 +114,7 @@ class WebsocketPolicyServer:
                 obs = unpackb(await websocket.recv())
 
                 infer_time = time.monotonic()
-                action = self._policy.infer(obs)
+                action = policy.infer(obs)
                 infer_time = time.monotonic() - infer_time
 
                 action["server_timing"] = {
@@ -164,11 +169,11 @@ class WebsocketClient:
                 headers = {"Authorization": f"Api-Key {self._api_key}"} if self._api_key else None
                 conn = websockets.sync.client.connect(
                     self._uri, compression=None, max_size=None, additional_headers=headers,
-                    ping_interval=300, ping_timeout=300
+                    ping_interval=300, ping_timeout=300, open_timeout=120
                 )
                 metadata = unpackb(conn.recv())
                 return conn, metadata
-            except ConnectionRefusedError:
+            except (ConnectionRefusedError, TimeoutError):
                 logging.info("Still waiting for server...")
                 time.sleep(5)
 

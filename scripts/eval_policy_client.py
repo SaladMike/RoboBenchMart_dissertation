@@ -159,7 +159,7 @@ def main(args) -> str:
             reset_options['robot_init_pose_seed'] = init_pose_seed
 
         obs, info = env.reset(seed=seed, options=reset_options)
-        language_instruction = env.language_instructions[0]
+        language_instruction = env.unwrapped.language_instructions[0]
 
         i = 0
         # for i in range(args.max_horizon):
