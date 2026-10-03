@@ -1,0 +1,47 @@
+{
+  "env_info": {
+    "env_id": "OpenDoorFridgeContEnv",
+    "env_kwargs": {
+      "robot_uids": "ds_fetch_basket",
+      "config_dir_path": "demo_envs/open_fridge/",
+      "num_envs": 1,
+      "control_mode": "pd_joint_pos",
+      "viewer_camera_configs": {
+        "shader_pack": "default"
+      },
+      "human_render_camera_configs": {
+        "shader_pack": "default",
+        "render_camera": {
+          "uid": "render_camera",
+          "pose": [
+            1.7299985885620117,
+            6.524489402770996,
+            2.0,
+            0.888670027256012,
+            -0.0969330370426178,
+            0.2208932489156723,
+            0.3899688422679901
+          ],
+          "width": 512,
+          "height": 512,
+          "fov": 1,
+          "near": 0.01,
+          "far": 100
+        }
+      },
+      "sensor_configs": {
+        "shader_pack": "default"
+      },
+      "sim_backend": "auto",
+      "render_mode": "rgb_array",
+      "enable_shadow": true,
+      "obs_mode": "rgb",
+      "parallel_in_single_scene": false
+    },
+    "max_episode_steps": 200000
+  },
+  "commit_info": null,
+  "episodes": [],
+  "source_type": "Policy",
+  "source_desc": "Policy evaluation"
+}

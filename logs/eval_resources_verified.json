@@ -1,0 +1,20 @@
+[
+  {
+    "resource": "scenes",
+    "repo": "emb-ai/RoboBenchMart_demo_envs",
+    "revision": "3dabfaaf9bdf2ba886264a1160dab68ac7043d00",
+    "directory": "/root/autodl-tmp/RoboBenchMart_dissertation/demo_envs",
+    "files": 466,
+    "bytes": 87643138,
+    "verification": "all sizes and hashes match"
+  },
+  {
+    "resource": "octo",
+    "repo": "emb-ai/RoboBenchMart_octo",
+    "revision": "f3c8de450fc08fb5737d32442a2b1e6ab2993244",
+    "directory": "/root/autodl-tmp/RoboBenchMart_dissertation/models/octo",
+    "files": 7,
+    "bytes": 833438151,
+    "verification": "all sizes and hashes match"
+  }
+]

@@ -1,0 +1,1 @@
+Stopped deliberately when switching to independent parallel evaluation after one completed configuration (original config 17). Original config 18 was partial and will be rerun. The shell EXIT trap wrote 0 despite termination before all 26 configurations; its value was retained separately as exit_from_trap and must not be interpreted as full completion.

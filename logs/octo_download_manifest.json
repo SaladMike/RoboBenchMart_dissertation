@@ -1,0 +1,48 @@
+{
+  "repo": "emb-ai/RoboBenchMart_octo",
+  "revision": "f3c8de450fc08fb5737d32442a2b1e6ab2993244",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "size": 1582,
+      "sha256": null,
+      "git_blob": "94c53dc175d29864c1e96b7cb1114626c20ed705"
+    },
+    {
+      "path": "1000000/default/_METADATA",
+      "size": 178759,
+      "sha256": null,
+      "git_blob": "ecaedfe4ffa53164a7c91cfc571d73707224e97e"
+    },
+    {
+      "path": "1000000/default/checkpoint",
+      "size": 832988645,
+      "sha256": "5145582091e6da9c31f9736294b188f37a235c740e6b6e18132208e2627b5122",
+      "git_blob": "d4585075614fe263074df293cbe6458fa7be1801"
+    },
+    {
+      "path": "config.json",
+      "size": 14993,
+      "sha256": null,
+      "git_blob": "e8d25b6073d4f9a5d59561cf6412cc89d237c93d"
+    },
+    {
+      "path": "dataset_statistics.json",
+      "size": 1780,
+      "sha256": null,
+      "git_blob": "912af5619b11278d6c18ae25bba93377aa4cc7b7"
+    },
+    {
+      "path": "example_batch.msgpack",
+      "size": 249658,
+      "sha256": "5acaba9003edeae1268a3c98f5cf0b0b5cd7074e0ad399b218ec62228a43d3a9",
+      "git_blob": "ace234629bcd6ce250d98aceb11994e94b94d820"
+    },
+    {
+      "path": "finetune_config.json",
+      "size": 2734,
+      "sha256": null,
+      "git_blob": "4d28431b498981be81cf25c3d7994c40f0462bae"
+    }
+  ]
+}
